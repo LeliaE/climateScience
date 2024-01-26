@@ -8,7 +8,7 @@ Data: Each row represents one station-day
 Time period: 175 years (~1763 - present)  
 Interesting columns:   
 PRCP = Precipitation (tenths of mm)  
-SNOW = Snowfall (mm)
+SNOW = Snowfall (mm)  
 SNWD = Snow depth (mm)
 TMAX = Maximum temperature (tenths of degrees C)
 TMIN = Minimum temperature (tenths of degrees C)
