@@ -32,5 +32,5 @@ SNOW = Snowfall (mm)
 Classify whether snow day or not (0, 1)  
 WT** = Weather Type   
 ## License:  
-
+There is no license information for the dataset itself (https://catalog.data.gov/dataset/global-historical-climatology-network-daily-ghcn-daily-version-32). The only link that is provided to state the license is broken (https://www.ncdc.noaa.gov/ghcnd-data-access). The documentation is under the Creative Commons Attribution-ShareAlike 4.0 International License (https://github.com/awslabs/open-data-docs/tree/main).  
 Pick specific weather types to explore, transform those into columns (0, 1)  
