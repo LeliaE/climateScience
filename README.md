@@ -2,12 +2,12 @@
 
 ## Data Ownership and Description:   
 URL: http://noaa-ghcn-pds.s3.amazonaws.com/  
-Data Owner: NOAA (scientific agency that focuses on the weather conditions, atmosphere, oceans, etc). It collects real-time data from satellites, weather stations, etc.  
+Data Owner: NOAA’s National Centers for Environmental Information (NCEI), a scientific agency that focuses on the weather conditions, atmosphere, oceans, and more. It collects real-time data from satellites, weather stations, etc.  
 Format: .csv (one file per year, will need scraping)    
 
 ## Information Contained:  
 Data: Each row represents one station-day  
-Time period: 175 years (~1763 - present)  
+Time period: 260 years (~1763 - 2022)  
 Interesting columns:   
 PRCP = Precipitation (tenths of mm)  
 SNOW = Snowfall (mm)  
