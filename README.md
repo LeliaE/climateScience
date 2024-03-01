@@ -13,7 +13,9 @@ The analysis can be found in the [Weather_Report.ipynb](https://github.com/Lelia
 ## Instructions
 
 You can view the notebook directly here on GitHub.
-However, if you want to run and modify the notebook yourself, you will need to have Git and Python (version 3.8 or higher) preinstalled. If you are using MacOS or Linux, this should already be the case. If you are on Windows, please refer to [this page](https://www.tomshardware.com/how-to/install-python-on-windows-10-and-11) for instructions.
+However, if you want to run and modify the notebook yourself, you will need to install Git on your computer. Refer to [this page](https://github.com/git-guides/install-git) for instructions.
+
+Additionally, you will need Python (version 3.8 or higher) preinstalled. If you are using MacOS or Linux, this should already be the case. If you are on Windows, please refer to [this page](https://www.tomshardware.com/how-to/install-python-on-windows-10-and-11) for instructions.
 
 
 ### 0. Clone and enter repository
